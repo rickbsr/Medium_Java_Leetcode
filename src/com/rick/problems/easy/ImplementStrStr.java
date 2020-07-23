@@ -1,4 +1,4 @@
-package com.rick.problems;
+package com.rick.problems.easy;
 
 public class ImplementStrStr {
 
