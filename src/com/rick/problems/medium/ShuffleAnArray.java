@@ -1,4 +1,4 @@
-package com.rick.problems;
+package com.rick.problems.medium;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Random;
 
 public class ShuffleAnArray {
-
     public static void main(String[] args) {
         int[] nums = {4, 3, 5};
         Solution obj = new ShuffleAnArray().new Solution(nums);
