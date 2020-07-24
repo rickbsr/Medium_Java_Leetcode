@@ -1,4 +1,4 @@
-package com.rick.problems;
+package com.rick.problems.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
